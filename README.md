@@ -22,9 +22,7 @@ Junior DevOps Engineer | AWS, Terraform, Linux | Learning every day
 - **Version Control**: Git, GitHub
 - **Networking**: Basic understanding of VPC, subnets, firewalls, and DNS
 
-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rtzi-hub&show_icons=true&theme=default" />
-</p>
+
 
 
 
