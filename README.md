@@ -7,7 +7,7 @@ DevOps Engineer | AWS, Terraform, Linux | Learning every day
 -  Completed an intensive 1000-hour DevOps course
 -  Worked on hands-on projects with Terraform, AWS, Docker, and Kubernetes 
 -  Always learning new tools and improving my skills
--  Looking for my first DevOps role where I can learn and contribute
+- Actively looking for a DevOps role where I can grow, contribute, and apply my hands-on skills
 
 
 ## 🛠️ Tools & Technologies
