@@ -24,7 +24,7 @@ DevOps Engineer | AWS, Terraform, Linux | Learning every day
 
 ## 🧠 Currently Learning
 
-📘 Currently learning: ArgoCD, advanced Helm, monitoring best practices, and practicing for the AWS Certified Solutions Architect – Associate exam
+📘 Currently learning: advanced Helm, monitoring best practices, and practicing for the AWS Certified Solutions Architect – Associate exam
 
 
 
