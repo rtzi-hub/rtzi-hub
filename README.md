@@ -26,6 +26,9 @@ DevOps Engineer | AWS, Terraform, Linux | Learning every day
 
 📘 Currently learning: advanced Helm, monitoring best practices, and practicing for the AWS Certified Solutions Architect – Associate exam
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rtzi-hub&show_icons=true&hide_rank=true&theme=default" />
+</p>
 
 
 
