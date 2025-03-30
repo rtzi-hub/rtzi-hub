@@ -1,6 +1,6 @@
 # Hi, I'm Ron 👋
 
-DevOps Engineer | AWS, Terraform, Linux | Learning every day
+DevOps Engineer | Learning every day
 
 ## 👨‍💻 About Me
 
