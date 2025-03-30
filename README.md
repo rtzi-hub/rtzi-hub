@@ -25,7 +25,7 @@ DevOps Engineer | Learning every day
 
 ## 🧠 Currently Learning
 
-📘 Currently learning: GCP Clou, advanced Helm, monitoring best practices, and practicing for the AWS Certified Solutions Architect – Associate exam
+📘 Currently learning: GCP Cloud, advanced Helm, monitoring best practices, and practicing for the AWS Certified Solutions Architect – Associate exam
 
 
 
