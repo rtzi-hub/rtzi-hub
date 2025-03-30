@@ -22,6 +22,9 @@ Junior DevOps Engineer | AWS, Terraform, Linux | Learning every day
 - **Version Control**: Git, GitHub
 - **Networking**: Basic understanding of VPC, subnets, firewalls, and DNS
 
+## 🧠 Currently Learning
+
+📘 Currently learning: ArgoCD, advanced Helm, monitoring best practices, and practicing for the AWS Certified Solutions Architect – Associate exam
 
 
 
