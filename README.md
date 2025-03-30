@@ -4,10 +4,10 @@ Junior DevOps Engineer | AWS, Terraform, Linux | Learning every day
 
 ## 👨‍💻 About Me
 
-- 🎓 Completed an intensive 1000-hour DevOps course
-- 🔧 Worked on hands-on projects with Terraform, AWS, Docker, and Kubernetes 
-- 📚 Always learning new tools and improving my skills
-- 🎯 Looking for my first DevOps role where I can learn and contribute
+-  Completed an intensive 1000-hour DevOps course
+-  Worked on hands-on projects with Terraform, AWS, Docker, and Kubernetes 
+-  Always learning new tools and improving my skills
+-  Looking for my first DevOps role where I can learn and contribute
 
 
 ## 🛠️ Tools & Technologies
